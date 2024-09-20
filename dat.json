@@ -1,0 +1,11 @@
+{
+  "title": "GCOM",
+  "links": {
+    "payment": [
+      {
+        "href": "https://gcom.com",
+        "type": "text/html"
+      }
+    ]
+  }
+}
